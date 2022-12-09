@@ -1,0 +1,4 @@
+# ignore files with extention .ext
+*.apk
+*.a
+
